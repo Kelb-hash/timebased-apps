@@ -37,4 +37,4 @@ def send_mail():
 #send mail every ten second
 while True:
     send_mail()
-    time.sleep(10)
+    time.sleep(600)
