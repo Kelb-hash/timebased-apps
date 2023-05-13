@@ -8,7 +8,7 @@ def calc_profit(investment):
         investment += profit
 
         print(f"current balance: {investment}")
-        time.sleep(10) #(24 * 60 * 60)
+        time.sleep(24 * 60 * 60) #(24 * 60 * 60)
                         #hour, minutes, seconds
 
 #initial investment
