@@ -33,4 +33,4 @@ def send_mail():
 while True:
     send_mail()
     print('mail succ. sent')
-    time.sleep(10)
+    time.sleep(600)
